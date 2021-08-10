@@ -1,0 +1,92 @@
+****************************************************************************
+Métodos e Ferramentas: Estratégia de Produtos
+
+Blueprints >> clarear os processos de trabalhos, entender as emoções do usuario e identificar melhorias em cada processo de trabalho.
+
+Mapa de Jornada do Usuário >> Mapa que mostra o caminho que o usuario vai percorrer no seu serviço oferecido. 
+
+Ecossistema >> São utilizados para entender todas as conexoes do usuario com seu produto.
+
+Golden Path >> caminho feliz que o usuario percorre para realizar uma atividade. É a jornada do usuario que 90%  dos usuarios vão pecorrer ao utilizar o produto.
+
+Future Press Release >> Estabelecer a visão do futuro do produto, gerar consenso com a equipe.
+
+Pixar Storytelling >> Narrativa sobre seu produto comunicar melhor o produto e entender seu produto se encaixa na vida de seu usuario....Estilo Desenhos da toy story
+
+Personas >> Identificar seu publico alvo, gerar consenso no time, entender as dores do seu usuario 
+
+Mapa de Stakeholders >> São os envolvidos no projeto, entender os interesses, entender os fatores criticos de sucesso.
+
+Proposta de Valor >> Entender as dores do seu cliente e qual a proposta de melhoria.
+
+Business Model Canvas >> CANVAS OU TRELLO que segmenta o modelo de negocio
+Canvas de Proposta de Valor >> é um método para definir o que o produto é, para quem ele foi criado e como/quando ele será usado.
+
+Primeiro tweet >> Simula como as pessoas vão reagir na primeira mensagem e a reação da primeira mensagem postada.
+
+360 lightening talk >> é uma apresentação curta, varias pessoas falando por poucos minutos com objetivo de compartilhar diversas visoes.
+
+Benchmark >> Uma analise dos concorrentes que esclarece as funcionalidades comparando-as uns com os outros.
+
+Métricas (visão geral) >> google analitcys e mix panel 
+
+****************************************************************************
+Métodos e Ferramentas: Geração de Ideias
+
+Double Diamond >> Pesquisa e definição, ideação e entregas geração de ideias.
+
+Storyboard >> Desenho igual quadrinhos mostrando o processo do usuario.
+
+Taxonomia >> Organizar as areas do site em agrupamentos de conteudos que façam sentidos pro usuario como por exemplo menus bem categorizados.
+
+Fluxo de Usuário >> Um conjunto de passos das interações que seu usuario tem com seu produto, exibindo todas as telas que seu usuario precisa passar.
+
+Sitemaps >> Organizar a hierarquia do site de um jeito que o usuario encontre as informações e assim entende o que precisa ser criado e o que esta faltando elas representao a taxonomia do seu site.
+
+*****************************************************************************
+Métodos e Ferramentas: Validação e Pesquisa
+
+Estudo diário >> 
+
+Focus Group >>
+
+Pesquisa quantitativa >> 
+
+Card Sorting >> 
+
+Teste A/B >> 
+
+Análise de Acessibilidade >> 
+
+Entrevistas Colaborativas >>
+
+Canais de Feedback >>
+
+****************************************************************************
+Experiência do Usuário
+
+Usabilidade >>
+
+Checklist Simplicidade
+* ola mundo
+Checklist Inteligencia
+*
+Checklist Acionalidade
+*
+Checklist Agradabilidade
+*
+Checklist Relevância
+*
+
+
+
+
+****************************************************************************
+Dicas
+*como descobrir e criar o que as pessoas precisam.
+*como externalizar e comunicar o que está na sua cabeça.
+*como executar as boas ideias.
+*como avaliar a solução dos problemas e melhorar o produto
+*como transformar ideiase, rabiscos, prototipos e produtos de usabilidade e utilidade.
+*avaliar os resultados do produto de forma objetiva.
+*como lanças MVPs, aprender rápido e chegar ao sucesso.
