@@ -46,40 +46,21 @@ Sitemaps >> Organizar a hierarquia do site de um jeito que o usuario encontre as
 *****************************************************************************
 Métodos e Ferramentas: Validação e Pesquisa
 
-Estudo diário >> 
+Auditoria de Conteudo >> conhecer o volume de conteudo, reorganizar no site. 
 
-Focus Group >>
+Pesquisa qualitativas >> Pesquisar e entender o seu usuario de uma maneira rapida.
 
-Pesquisa quantitativa >> 
+Card Sorting >> Cartoes escritos conteudos para funcionarios agrupem as categorias de uma forma que fazem sentido para elas. 5 pessoas ideal
 
-Card Sorting >> 
+Teste A/B >> Teste para duas possibliidades de tela e assim descobrir qual a abordagem é melhor para você aplicar.
 
-Teste A/B >> 
+Canais de Feedback >> Sites de terceiros, e-mails ao suporte tecnico, google analytics, ligações frias, formularios, callcenter, whatsapp.
 
-Análise de Acessibilidade >> 
-
-Entrevistas Colaborativas >>
-
-Canais de Feedback >>
 
 ****************************************************************************
 Experiência do Usuário
 
-Usabilidade >>
-
-Checklist Simplicidade
-* ola mundo
-Checklist Inteligencia
-*
-Checklist Acionalidade
-*
-Checklist Agradabilidade
-*
-Checklist Relevância
-*
-
-
-
+Usabilidade >> Entrevista de usabilidade, sensações e frustações do usuario, se consegue conseguir completar a tarefa de maneira rapida ou dificil. 5 entrevistados.
 
 ****************************************************************************
 Dicas
